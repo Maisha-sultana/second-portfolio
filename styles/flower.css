@@ -416,16 +416,10 @@
 
 
   /* Flower & Plant Lover section */
-  #img-1, .badge {
+  #img-1{
     width: 100%;
     height: auto;
     margin: 10px 0;
-  }
-
-  .badge {
-    margin-left: 0;
-    margin-top: 10px;
-    transform: none !important; /* Prevent hover rotate */
   }
 
   .flower-plant {
